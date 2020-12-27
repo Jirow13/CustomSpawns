@@ -9,15 +9,26 @@
             </Reward>
             <Reward>
                 <Type>Renown</Type>
-                <RenownInfluenceMoneyAmount>10</RenownInfluenceMoneyAmount>
+                <RenownInfluenceMoneyAmount>30</RenownInfluenceMoneyAmount>
             </Reward>
             <Reward>
                 <Type>Item</Type>
-                <ItemId>cs_nordic_rune_sword</ItemId>
+                <ItemId>battania_woodland_chainmail</ItemId>
+                <Chance>0.2</Chance>
+            </Reward>
+            <Reward>
+                <Type>Item</Type>
+                <ItemId>reinforced_padded_mitten</ItemId>
+                <Chance>0.3</Chance>
+            </Reward>
+            <Reward>
+                <Type>Item</Type>
+                <ItemId>vlandia_axe_2_t4</ItemId>
+                <Chance>0.3</Chance>
             </Reward>
             <Reward>
                 <Type>Money</Type>
-                <RenownInfluenceMoneyAmount>10000</RenownInfluenceMoneyAmount>
+                <RenownInfluenceMoneyAmount>3000</RenownInfluenceMoneyAmount>
             </Reward>
         </RewardsList>
     </PartyReward>
@@ -25,20 +36,27 @@
         <PartyId>cs_forest_giant_trainer_group</PartyId>
         <RewardsList>
             <Reward>
-                <Type>Influence</Type>
-                <RenownInfluenceMoneyAmount>5</RenownInfluenceMoneyAmount>
-            </Reward>
-            <Reward>
                 <Type>Renown</Type>
                 <RenownInfluenceMoneyAmount>10</RenownInfluenceMoneyAmount>
             </Reward>
             <Reward>
                 <Type>Item</Type>
-                <ItemId>cs_nordic_rune_sword</ItemId>
+                <ItemId>noble_long_bow</ItemId>
+                <Chance>0.1</Chance>
+                <Reward>
+                    <Type>Item</Type>
+                    <ItemId>piercing_arrows</ItemId>
+                    <Chance>0.3</Chance>
+                </Reward>
+                <Reward>
+                    <Type>Item</Type>
+                    <ItemId>piercing_arrows</ItemId>
+                    <Chance>0.3</Chance>
+                </Reward>
             </Reward>
             <Reward>
                 <Type>Money</Type>
-                <RenownInfluenceMoneyAmount>10000</RenownInfluenceMoneyAmount>
+                <RenownInfluenceMoneyAmount>1000</RenownInfluenceMoneyAmount>
             </Reward>
         </RewardsList>
     </PartyReward>
@@ -51,20 +69,51 @@
             </Reward>
             <Reward>
                 <Type>Renown</Type>
-                <RenownInfluenceMoneyAmount>10</RenownInfluenceMoneyAmount>
+                <RenownInfluenceMoneyAmount>50</RenownInfluenceMoneyAmount>
             </Reward>
             <Reward>
                 <Type>Item</Type>
-                <ItemId>cs_nordic_rune_sword</ItemId>
+                <ItemId>northern_coat_of_plates</ItemId>
+                <Chance>0.1</Chance>
+            </Reward>
+            <Reward>
+                <Type>Item</Type>
+                <ItemId>lendman_helmet_over_full_mail</ItemId>
+                <Chance>0.1</Chance>
+            </Reward>
+            <Reward>
+                <Type>Item</Type>
+                <ItemId>white_coat_over_mail</ItemId>
+                <Chance>0.1</Chance>
+            </Reward>
+            <Reward>
+                <Type>Item</Type>
+                <ItemId>reinforced_mail_mitten</ItemId>
+                <Chance>0.1</Chance>
+            </Reward>
+            <Reward>
+                <Type>Item</Type>
+                <ItemId>battanian_chainmail_armor_b</ItemId>
+                <Chance>0.1</Chance>
+            </Reward>
+            <Reward>
+                <Type>Item</Type>
+                <ItemId>western_javelin_3_t4</ItemId>
+                <Chance>0.1</Chance>
+            </Reward>
+            <Reward>
+                <Type>Item</Type>
+                <ItemId>battania_sword_4_t4</ItemId>
+                <Chance>0.1</Chance>
             </Reward>
             <Reward>
                 <Type>Money</Type>
-                <RenownInfluenceMoneyAmount>10000</RenownInfluenceMoneyAmount>
+                <RenownInfluenceMoneyAmount>5000</RenownInfluenceMoneyAmount>
             </Reward>
         </RewardsList>
     </PartyReward>
     <PartyReward>
-        <PartyId>looters</PartyId>
+        <PartyId>cs_mad_uprising</PartyId>
         <RewardsList>
             <Reward>
                 <Type>Influence</Type>
@@ -72,15 +121,75 @@
             </Reward>
             <Reward>
                 <Type>Renown</Type>
-                <RenownInfluenceMoneyAmount>10</RenownInfluenceMoneyAmount>
+                <RenownInfluenceMoneyAmount>50</RenownInfluenceMoneyAmount>
             </Reward>
             <Reward>
                 <Type>Item</Type>
-                <ItemId>cs_nordic_rune_sword</ItemId>
+                <ItemId>generic_javelin_1_t3</ItemId>
+                <Chance>0.1</Chance>
+                <Reward>
+                    <Type>Item</Type>
+                    <ItemId>noble_horse</ItemId>
+                    <Chance>0.3</Chance>
+                </Reward>
+                <Reward>
+                    <Type>Item</Type>
+                    <ItemId>battania_polearm_1_t5</ItemId>
+                    <Chance>0.3</Chance>
+                </Reward>
             </Reward>
             <Reward>
                 <Type>Money</Type>
-                <RenownInfluenceMoneyAmount>10000</RenownInfluenceMoneyAmount>
+                <RenownInfluenceMoneyAmount>5000</RenownInfluenceMoneyAmount>
+            </Reward>
+        </RewardsList>
+    </PartyReward>
+    <PartyReward>
+        <PartyId>cs_how_doomhost_group</PartyId>
+        <RewardsList>
+            <Reward>
+                <Type>Influence</Type>
+                <RenownInfluenceMoneyAmount>5</RenownInfluenceMoneyAmount>
+            </Reward>
+            <Reward>
+                <Type>Renown</Type>
+                <RenownInfluenceMoneyAmount>50</RenownInfluenceMoneyAmount>
+            </Reward>
+            <Reward>
+                <Type>Item</Type>
+                <ItemId>cs_nailmace_t3</ItemId>
+                <Chance>0.3</Chance>
+                <Reward>
+                    <Type>Item</Type>
+                    <ItemId>crossbow_c</ItemId>
+                    <Chance>0.3</Chance>
+                </Reward>
+                <Reward>
+                    <Type>Item</Type>
+                    <ItemId>empire_mace_4_t5</ItemId>
+                    <Chance>0.3</Chance>
+                </Reward>
+            </Reward>
+            <Reward>
+                <Type>Money</Type>
+                <RenownInfluenceMoneyAmount>5000</RenownInfluenceMoneyAmount>
+            </Reward>
+        </RewardsList>
+    </PartyReward>
+    <PartyReward>
+        <PartyId>cs_mass_peasant_revolutionary_revolt</PartyId>
+        <RewardsList>
+            <Reward>
+                <Type>Influence</Type>
+                <RenownInfluenceMoneyAmount>5</RenownInfluenceMoneyAmount>
+            </Reward>
+            <Reward>
+                <Type>Renown</Type>
+                <RenownInfluenceMoneyAmount>30</RenownInfluenceMoneyAmount>
+            </Reward>
+            <Reward>
+                <Type>Money</Type>
+                <RenownInfluenceMoneyAmount>3000</RenownInfluenceMoneyAmount>
             </Reward>
         </RewardsList>
     </PartyReward>
